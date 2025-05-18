@@ -23,6 +23,4 @@ Input Feature: Age
 
 Target Variable: Salary
 
-Model Type: (Specify the model used, e.g., Linear Regression)
-
-Training Data: (Provide details about the dataset used for training, if available)
+Model Type: Linear Regression
